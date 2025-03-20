@@ -15,3 +15,6 @@ Git helps us :-
 5) colloborate and share changes 
 6) combine changes 
 
+git is not Gitub 
+git:- 
+Git is the version control software that runs on locally on your machine , you don't need to register for an account , you don;t need to register for an account 
