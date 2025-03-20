@@ -1,0 +1,8 @@
+What is Git ?
+-> Version control system - vcs 
+version Control is software that tracks and manages changes to files over time '
+
+-> version control systems generally allow users to revisit earlier versions of the files , compare changes between versions , undo changes, and a whole lot more 
+ 
+git is just one of the version control systems 
+other well-known ones include subversion , cvs , mercurial 
